@@ -1,0 +1,18 @@
+.container{
+    background-color: rgba(245, 124, 124, 0.338);
+    color: rgba(149, 48, 48, 0.833);
+}
+
+.fw-bold {
+    font-weight: 200;
+}
+
+.display-1{
+    font-size: calc(1rem + 0.7vw);
+    font-weight: 500;
+    line-height: 1;
+}
+
+#contactme{
+    color:  rgba(149, 48, 48, 0.833);
+}
